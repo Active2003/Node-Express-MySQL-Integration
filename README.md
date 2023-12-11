@@ -1,9 +1,11 @@
 # Node-Express-MySQL-Integration
 This repository serves as a comprehensive guide and solution for developers aiming to seamlessly integrate a Node.js/Express backend with a MySQL database. It addresses common hurdles encountered while establishing connections between server-side applications and databases, providing step-by-step resolutions to overcome these challenges.
 
+### Screenshot
+Data getting inserted in MySQL 
+<br>![Screenshot 2023-12-11 121024](https://github.com/Active2003/Node-Express-MySQL-Integration/assets/109369749/8636b948-9ff9-48e3-9fe1-158565e1711c)
 
 ## Solution Overview
-
 ### Steps to Resolve
 
 1. **Setting up the Backend:**
